@@ -3,7 +3,7 @@
 ## Table of Content
 
 - [Data](#Data)
-- [User Segmentation](# User Segmentation)
+- [User_Segmentation](# User Segmentation)
 - [Product&Brand&Category Segmentation](# Product&Brand&Category Segmentation)
 - [Sales]
 
@@ -23,7 +23,7 @@ Each data point contains the following information:
 - **user_session**: user session ID. [string]
 <img width="939" alt="CleanShot 2021-09-29 at 03 01 42@2x" src="https://user-images.githubusercontent.com/81413871/135219053-4817b5f4-5652-4d86-a6e1-1b85279d2a36.png">
 
-## User Segmentation
+## User_Segmentation
 I conducted the user segmentation by applying the Recency-Frequency-Monetary framework to calculate the R, F, M value for each users.
 And I applied K-Menas clusting method to each user's R, F, M values, and segmented the users into four groups:
 - At-Risk
