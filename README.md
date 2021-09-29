@@ -3,9 +3,9 @@
 ## Table of Content
 
 - [Data](#Data)
-- [User_Segmentation](# User Segmentation)
-- [Product&Brand&Category Segmentation](# Product&Brand&Category Segmentation)
-- [Sales]
+- [User_Segmentation](#User Segmentation)
+- [Product&Brand&Category Segmentation](#Product&Brand&Category Segmentation)
+- [Sales](#Sales)
 
 
 ## Data
