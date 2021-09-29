@@ -3,8 +3,8 @@
 ## Table of Content
 
 - [Data](#Data)
-- [User_Segmentation](#User Segmentation)
-- [Product&Brand&Category Segmentation](#Product&Brand&Category Segmentation)
+- [User_Segmentation](#User_Segmentation)
+- [Product&Brand&Category_Segmentation](#Product&Brand&Category_Segmentation)
 - [Sales](#Sales)
 
 
@@ -32,7 +32,7 @@ And I applied K-Menas clusting method to each user's R, F, M values, and segment
 - Potential Loyalist
 And I analyzed the sales portion of each user groups, and offered retention strategy.
 
-## Product&Brand&Category Segmentation
+## Product&Brand&Category_Segmentation
 I condected the segmentation to product&brand&category by calculating the retention rate for each product&brand&category:
 View-Purchase(VP): rate of item purchased from viewed
 View-Cart(VC): rate of item added from viewed
